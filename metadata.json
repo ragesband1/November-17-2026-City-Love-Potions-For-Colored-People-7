@@ -1,0 +1,6 @@
+{
+  "name": "City Love Potions for Colored People",
+  "description": "A 2D city stealth and social-friendship game where you collect five sense-based Love Potions, avoid traps, and build consensual friendships across 100 levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
